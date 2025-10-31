@@ -1,96 +1,131 @@
 <div align="center">
-  
-# 👋 Hey, I’m <strong>Alvin Roberts</strong>
-<p>
-  <em><strong>Full‑Stack Engineer · AI Integration Specialist · Automation Architect</strong></em><br/>
-  Based in <strong>Dallas, Texas</strong> · he/him
-</p>
+  <h1>I’m Alvin Roberts</h1>
 
-<!-- Typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=66CCFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=I+build+AI‑driven%2C+cloud‑native+systems+that+scale.;FastAPI+%2B+React+%2B+LangChain+%2B+Terraform+%2B+AWS" alt="Typing SVG" />
+  <p>
+    <a href="mailto:alvindroberts7@gmail.com">
+      <img height="28" src="https://img.shields.io/badge/Email-alvindroberts7%40gmail.com-333?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/alvin-roberts">
+      <img height="28" src="https://img.shields.io/badge/LinkedIn-Alvin%20Roberts-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/alvind526?tab=followers">
+      <img height="28" src="https://img.shields.io/badge/GitHub-Follow-000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-<p>
-  <a href="mailto:alvindroberts7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alvindroberts7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/alvin-roberts"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alvin%20Roberts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://u8views.com/user/alvind526"><img alt="Profile views" src="https://u8views.com/api/v1/github/profiles/alvind526/views.svg?color=6d6d6d" /></a>
-</p>
-
+  <img height="22" src="https://komarev.com/ghpvc/?username=alvind526&style=flat&color=lightgrey" alt="Profile views" />
 </div>
 
 ---
 
 ## 🚀 About Me
-Hands‑on engineer with 10+ years across **full‑stack, data, and AI**. I design **microservices** and **event‑driven systems** that are observable, resilient, and cost‑efficient.  
-Currently exploring **LLM orchestration**, **RAG**, and **multi‑agent frameworks** for production‑grade AI.
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&repeat=true&width=900&height=48&lines=I%20ship%20AI-driven%2C%20cloud-native%20apps;FastAPI%20%2B%20React%20%2B%20Node.js%20%2B%20Next.js;Python%20%2F%20TypeScript%20%2F%20Go;LangChain%20%2B%20RAG%20%2B%20Vector%20DBs;Microservices%20%7C%20Event-driven%20%7C%20Kafka;GraphQL%20%2F%20REST%20APIs;Postgres%20%7C%20MongoDB%20%7C%20Redis;Docker%20%7C%20Kubernetes%20%7C%20Terraform;AWS%20%7C%20GCP%20%7C%20Azure;CI%2FCD%20with%20GitHub%20Actions;Observability%20%28logs%2C%20metrics%2C%20traces%29;Cost%20optimization%20mindset;Serverless%20%28Lambda%2C%20Cloud%20Run%29;Testing%20%28Playwright%2C%20Pytest%29;Shipping%20with%20quality%20and%20speed"
+    alt="Animated introduction"
+  />
+</p>
 
 ---
 
 ## 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,java,spring,cs,dotnet,go,postgres,mysql,mongodb,redis,sqlite,aws,gcp,azure,docker,kubernetes,terraform,linux,git,githubactions,vscode&perline=13" />
-</p>
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img alt="Tech stack icons"
+       src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,django,flask,go,postgres,mysql,mongodb,redis,sqlite,graphql,kafka,rabbitmq,aws,gcp,azure,docker,kubernetes,terraform,githubactions,jenkins,git,linux,prometheus,grafana,jest,cypress,selenium,vscode&perline=14" />
+</a>
+
+</div>
 
 ---
 
 ## 📊 GitHub Pulse
+
 <p align="center">
+  <!-- Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api?username=alvind526&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+    <img alt="GitHub stats"
+         src="https://github-readme-stats.vercel.app/api?username=alvind526&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=7200"
+         height="165" />
+  </picture>
 
-<!-- Stats (dark / light) -->
-<img src="https://github-readme-stats.vercel.app/api?username=alvind526&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="165" />
-<img src="https://github-readme-stats.vercel.app/api?username=alvind526&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true#gh-light-mode-only" height="165" />
-
-<!-- Streak (dark / light) -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alvind526&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alvind526&theme=default&hide_border=true#gh-light-mode-only" height="165" />
-
+  <!-- Streak -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=alvind526&theme=tokyonight&hide_border=true" />
+    <img alt="GitHub streak"
+         src="https://github-readme-streak-stats.herokuapp.com?user=alvind526&theme=default&hide_border=true"
+         height="165" />
+  </picture>
 </p>
 
 <p align="center">
-<!-- Top languages (dark / light) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvind526&layout=compact&langs_count=10&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvind526&layout=compact&langs_count=10&theme=default&hide_border=true#gh-light-mode-only" height="165" />
+  <!-- Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvind526&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,scss&card_width=420&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+    <img alt="Top languages"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvind526&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,scss&card_width=420&theme=default&hide_border=true&cache_seconds=7200"
+         height="165" />
+  </picture>
 </p>
 
+<!-- GitHub Trophies — responsive; same look as your preferred row -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alvind526&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" />
+  <picture>
+    <!-- Desktop (8 cups) -->
+    <source media="(min-width:1200px)"
+            srcset="https://github-profile-trophy.vercel.app/?username=alvind526&theme=flat&no-frame=true&margin-w=14&margin-h=14&column=8" />
+    <!-- Tablet (4 cups) -->
+    <source media="(min-width:820px)"
+            srcset="https://github-profile-trophy.vercel.app/?username=alvind526&theme=flat&no-frame=true&margin-w=14&margin-h=14&column=4" />
+    <!-- Mobile (2 cups) -->
+    <img alt="GitHub trophies"
+         src="https://github-profile-trophy.vercel.app/?username=alvind526&theme=flat&no-frame=true&margin-w=14&margin-h=14&column=2" />
+  </picture>
 </p>
 
 ---
 
 ## 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvind526&theme=tokyo-night&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=alvind526&theme=tokyo-night&hide_border=true" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=alvind526&theme=minimal&hide_border=true"
+      alt="Activity graph" />
+  </picture>
 </p>
 
 ---
 
 ## 💼 Featured Projects
-<!-- Use only repos that exist under your account to avoid 'User Repository Not found' -->
 <p align="center">
-  <a href="https://github.com/alvind526/user-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=user-service&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/alvind526/order-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=order-service&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/alvind526/user-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=user-service&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="user-service" /></a>
+  <a href="https://github.com/alvind526/order-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=order-service&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="order-service" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/alvind526/product-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=product-service&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/alvind526/gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=gateway&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/alvind526/product-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=product-service&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="product-service" /></a>
+  <a href="https://github.com/alvind526/gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=gateway&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="gateway" /></a>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alvind526/alvind526/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvind526/alvind526/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alvind526/alvind526/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
----
-
-## 🤝 Connect
+<hr/>
 <p align="center">
-  <a href="mailto:alvindroberts7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/alvin-roberts"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/alvind526"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <i>“Code is art, performance is poetry.”</i>
 </p>
-
----
-
-> “Code is art — performance is poetry.”
