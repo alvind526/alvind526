@@ -77,13 +77,6 @@ Currently exploring **LLM orchestration**, **RAG**, and **multi‑agent framewor
 
 ---
 
-## 🧊 3D Contribution Calendar
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alvind526/alvind526/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alvind526/alvind526/output/github-contribution-grid-snake.svg" />
