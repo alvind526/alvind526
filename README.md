@@ -1,12 +1,13 @@
 <div align="center">
-
+  
 # 👋 Hey, I’m <strong>Alvin Roberts</strong>
 <p>
   <em><strong>Full‑Stack Engineer · AI Integration Specialist · Automation Architect</strong></em><br/>
   Based in <strong>Dallas, Texas</strong> · he/him
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=66CCFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=I+build+AI‑driven%2C+cloud‑native+systems+that+scale.;FastAPI+%2B+React+%2B+LangChain+%2B+Terraform+%2B+AWS" alt="Typing SVG" />
+<!-- Typing banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=66CCFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=I+build+AI‑driven%2C+cloud‑native+systems+that+scale.;FastAPI+%2B+React+%2B+LangChain+%2B+Terraform+%2B+AWS" alt="Typing SVG" />
 
 <p>
   <a href="mailto:alvindroberts7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alvindroberts7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -34,22 +35,20 @@ Currently exploring **LLM orchestration**, **RAG**, and **multi‑agent framewor
 ## 📊 GitHub Pulse
 <p align="center">
 
-<!-- Dark mode -->
+<!-- Stats (dark / light) -->
 <img src="https://github-readme-stats.vercel.app/api?username=alvind526&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="165" />
 <img src="https://github-readme-stats.vercel.app/api?username=alvind526&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true#gh-light-mode-only" height="165" />
 
-<!-- Dark mode -->
+<!-- Streak (dark / light) -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=alvind526&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=alvind526&theme=default&hide_border=true#gh-light-mode-only" height="165" />
 
 </p>
 
 <p align="center">
-
-<!-- Dark mode -->
+<!-- Top languages (dark / light) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvind526&layout=compact&langs_count=10&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvind526&layout=compact&langs_count=10&theme=default&hide_border=true#gh-light-mode-only" height="165" />
-
 </p>
 
 <p align="center">
@@ -66,13 +65,14 @@ Currently exploring **LLM orchestration**, **RAG**, and **multi‑agent framewor
 ---
 
 ## 💼 Featured Projects
+<!-- Use only repos that exist under your account to avoid 'User Repository Not found' -->
 <p align="center">
-  <a href="https://github.com/alvind526/autoapply-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=autoapply-pro&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/alvind526/provider-fax-finder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=provider-fax-finder&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/alvind526/user-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=user-service&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/alvind526/order-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=order-service&theme=tokyonight&hide_border=true" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/alvind526/swiftcv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=swiftcv&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/alvind526/realtime-microservices-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=realtime-microservices-starter&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/alvind526/product-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=product-service&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/alvind526/gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alvind526&repo=gateway&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
@@ -100,6 +100,4 @@ Currently exploring **LLM orchestration**, **RAG**, and **multi‑agent framewor
 
 ---
 
-> “Code is art — performance is poetry.”  
-> I like building systems that **learn, adapt, and talk back**.
-
+> “Code is art — performance is poetry.”
