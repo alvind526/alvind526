@@ -42,39 +42,6 @@
 
 ---
 
-## 📊 GitHub Pulse
-
-<p align="center">
-  <!-- Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api?username=alvind526&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-    <img alt="GitHub stats"
-         src="https://github-readme-stats.vercel.app/api?username=alvind526&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true&cache_seconds=7200"
-         height="165" />
-  </picture>
-
-  <!-- Streak -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=alvind526&theme=tokyonight&hide_border=true" />
-    <img alt="GitHub streak"
-         src="https://github-readme-streak-stats.herokuapp.com?user=alvind526&theme=default&hide_border=true"
-         height="165" />
-  </picture>
-</p>
-
-<p align="center">
-  <!-- Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvind526&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,scss&card_width=420&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-    <img alt="Top languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvind526&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,scss&card_width=420&theme=default&hide_border=true&cache_seconds=7200"
-         height="165" />
-  </picture>
-</p>
-
 <!-- GitHub Trophies — responsive; same look as your preferred row -->
 <p align="center">
   <picture>
